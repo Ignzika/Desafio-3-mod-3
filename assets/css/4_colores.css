@@ -1,0 +1,31 @@
+body{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+div {
+  width: 200px;
+  height: 200px;
+}
+
+#Box1 {
+  background-color: blue;
+}
+
+#Box2 {
+  background-color: red;
+}
+
+#Box3 {
+  background-color: green;
+}
+
+#Box4 {
+  background-color: yellow;
+}
+
+#key {
+  background-color: white;
+  border: 1px black solid;
+}
